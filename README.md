@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caniccan" alt="caniccan" /></a> </p>
 
-- 🌱 I’m currently learning **C#,.Net Core,Python**
+- 🌱 I’m currently learning **C#, .Net Core, Python**
 
 - 📫 How to reach me **caniccan@hotmail.com**
 
