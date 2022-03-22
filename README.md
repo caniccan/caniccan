@@ -7,9 +7,12 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🌱 I’m currently learning **.NET Core with C#**
+- 🔭 About me: **I love coding & learning**
+- 🌱 I’m currently learning: **.NET Core with C#**
 
-- 📫 How to reach me **caniccan@hotmail.com**
+
+
+- 📫 How to reach me: **caniccan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
