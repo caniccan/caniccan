@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🔭 About me: ***I love coding & learning***
+- 🌕 About me: ***I love coding & learning***
 - 🌱 I’m currently learning: **.NET Core with C#**
 - 📫 How to reach me: **caniccan@hotmail.com**
 
