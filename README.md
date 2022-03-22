@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caniccan&label=Profile%20views&color=0e75b6&style=flat" alt="caniccan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caniccan" alt="caniccan" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🌱 I’m currently learning **.NET Core with C#**
 
@@ -22,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caniccan&show_icons=true&locale=en" alt="caniccan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caniccan&" alt="caniccan" /></p>
+
